@@ -1,0 +1,31 @@
+{
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Suggest Pad is the recommended land pattern for an IC. Please locate the image for Suggest Pad and answer the following question in pure numbers. How many pads are there in the package image"
+            },
+            {
+                "from": "gpt",
+                "value": "11"
+            },
+            {
+                "from": "human",
+                "value": "Please describe the sizes of the pads in number pairs organized as \"name, dx, dy\\n\" for a square pad or \"name, diameter\\n\" for a circle pad."
+            },
+            {
+                "from": "gpt",
+                "value": "1, 0.69, 0.28\n2, 0.69, 0.28\n3, 0.69, 0.28\n4, 0.69, 0.28\n5, 0.69, 0.28\n6, 0.69, 0.28\n7, 0.69, 0.28\n8, 0.69, 0.28\n9, 0.69, 0.28\n10, 0.69, 0.28\n11, 1.6, 2.3"
+            },
+            {
+                "from": "human",
+                "value": "let the coordinate of the Suggest Pad's center be 'x=0, y=0'. Please describe the center locations of the smd pads in number pairs organized as \"name, x, y\\n\""
+            },
+            {
+                "from": "gpt",
+                "value": "1, -1.395, 1.0\n2, -1.395, 0.5\n3, -1.395, 0.0\n4, -1.395, -0.5\n5, -1.395, -1.0\n6, 1.395, -1.0\n7, 1.395, -0.5\n8, 1.395, 0.0\n9, 1.395, 0.5\n10, 1.395, 1.0\n11, 0, 0"
+            }
+        ],
+        "images": [
+            "image/EMC1183-A-AIA_Page_46.png"
+        ]
+    }

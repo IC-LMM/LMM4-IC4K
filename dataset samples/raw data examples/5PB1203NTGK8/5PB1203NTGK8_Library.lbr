@@ -1,0 +1,13 @@
+<packages>
+<smd name="1" x="-1.0033" y=".8001" dx=".6604" dy=".2032" layer="1" roundness="0" rot="R0" stop="yes" cream="yes" />
+<smd name="2" x="-1.0033" y=".4" dx=".6604" dy=".2032" layer="1" roundness="0" rot="R0" stop="yes" cream="yes" />
+<smd name="3" x="-1.0033" y="0" dx=".6604" dy=".2032" layer="1" roundness="0" rot="R0" stop="yes" cream="yes" />
+<smd name="4" x="-1.0033" y="-.4" dx=".6604" dy=".2032" layer="1" roundness="0" rot="R0" stop="yes" cream="yes" />
+<smd name="5" x="-1.0033" y="-.8001" dx=".6604" dy=".2032" layer="1" roundness="0" rot="R0" stop="yes" cream="yes" />
+<smd name="6" x="1.0033" y="-.8001" dx=".6604" dy=".2032" layer="1" roundness="0" rot="R0" stop="yes" cream="yes" />
+<smd name="7" x="1.0033" y="-.4" dx=".6604" dy=".2032" layer="1" roundness="0" rot="R0" stop="yes" cream="yes" />
+<smd name="8" x="1.0033" y="0" dx=".6604" dy=".2032" layer="1" roundness="0" rot="R0" stop="yes" cream="yes" />
+<smd name="9" x="1.0033" y=".4" dx=".6604" dy=".2032" layer="1" roundness="0" rot="R0" stop="yes" cream="yes" />
+<smd name="10" x="1.0033" y=".8001" dx=".6604" dy=".2032" layer="1" roundness="0" rot="R0" stop="yes" cream="yes" />
+<smd name="11" x="0" y="0" dx=".9398" dy="1.6002" layer="1" roundness="0" rot="R0" stop="yes" cream="yes" />
+</packages>

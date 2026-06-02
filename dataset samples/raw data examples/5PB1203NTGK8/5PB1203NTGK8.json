@@ -1,0 +1,31 @@
+{
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Suggest Pad is the recommended land pattern for an IC. Please locate the image for Suggest Pad and answer the following question in pure numbers. How many pads are there in the package image"
+            },
+            {
+                "from": "gpt",
+                "value": "11"
+            },
+            {
+                "from": "human",
+                "value": "Please describe the sizes of the pads in number pairs organized as \"name, dx, dy\\n\" for a square pad or \"name, diameter\\n\" for a circle pad."
+            },
+            {
+                "from": "gpt",
+                "value": "1, 0.20, 0.75\n2, 0.20, 0.75\n3, 0.20, 0.75\n4, 0.20, 0.75\n5, 0.20, 0.75\n6, 0.20, 0.75\n7, 0.20, 0.75\n8, 0.20, 0.75\n9, 0.20, 0.75\n10, 0.20, 0.75\n11, 1.55, 0.95"
+            },
+            {
+                "from": "human",
+                "value": "let the coordinate of the Suggest Pad's center be 'x=0, y=0'. Please describe the center locations of the smd pads in number pairs organized as \"name, x, y\\n\""
+            },
+            {
+                "from": "gpt",
+                "value": "1, -0.8, -1\n2, -0.4, -1\n3, 0, -1\n4, 0.4, -1\n5, 0.8, -1\n6, 0.8, 1\n7, 0.4, 1\n8, 0, 1\n9, -0.4, 1\n10, -0.8, 1\n11, 0.0, 0.0"
+            }
+        ],
+        "images": [
+            "image/5PB1203NTGK8_Page_11.png"
+        ]
+    }

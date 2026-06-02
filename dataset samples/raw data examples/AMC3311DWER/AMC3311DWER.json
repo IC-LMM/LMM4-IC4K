@@ -1,0 +1,31 @@
+{
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Suggest Pad is the recommended land pattern for an IC. Please locate the image for Suggest Pad and answer the following question in pure numbers. How many pads are there in the package image"
+            },
+            {
+                "from": "gpt",
+                "value": "16"
+            },
+            {
+                "from": "human",
+                "value": "Please describe the sizes of the pads in number pairs organized as \"name, dx, dy\\n\" for a square pad or \"name, diameter\\n\" for a circle pad."
+            },
+            {
+                "from": "gpt",
+                "value": "1, 2, 0.6\n2, 2, 0.6\n3, 2, 0.6\n4, 2, 0.6\n5, 2, 0.6\n6, 2, 0.6\n7, 2, 0.6\n8, 2, 0.6\n9, 2, 0.6\n10, 2, 0.6\n11, 2, 0.6\n12, 2, 0.6\n13, 2, 0.6\n14, 2, 0.6\n15, 2, 0.6\n16, 2, 0.6"
+            },
+            {
+                "from": "human",
+                "value": "let the coordinate of the Suggest Pad's center be 'x=0, y=0'. Please describe the center locations of the smd pads in number pairs organized as \"name, x, y\\n\""
+            },
+            {
+                "from": "gpt",
+                "value": "1, -4.65, 4.445\n2, -4.65, 3.175\n3, -4.65, 1.905\n4, -4.65, 0.635\n5, -4.65, -0.635\n6, -4.65, -1.905\n7, -4.65, -3.175\n8, -4.65, -4.445\n9, 4.65, -4.445\n10, 4.65, -3.175\n11, 4.65, -1.905\n12, 4.65, -0.635\n13, 4.65, 0.635\n14, 4.65, 1.905\n15, 4.65, 3.175\n16, 4.65, 4.445"
+            }
+        ],
+        "images": [
+            "image/AMC3311DWER_Page_34.png"
+        ]
+    }
